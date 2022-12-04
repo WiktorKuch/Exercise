@@ -1,0 +1,15 @@
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\bin\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.exe
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\bin\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.deps.json
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\bin\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.runtimeconfig.json
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\bin\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.dll
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\bin\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.pdb
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.csproj.AssemblyReference.cache
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.AssemblyInfoInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.AssemblyInfo.cs
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.csproj.CoreCompileInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.dll
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\refint\MetodaParsującaDoLiczbyUjemnej.dll
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.pdb
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\MetodaParsującaDoLiczbyUjemnej.genruntimeconfig.cache
+C:\Users\Wiktro Kucharek\source\repos\Exercise\Exercise\obj\Debug\net6.0\ref\MetodaParsującaDoLiczbyUjemnej.dll
